@@ -4,7 +4,6 @@ c = a+b
 print(c)
 print(type(c))
 
-
 print(type(1))
 print(type(2.5))
 print(type('Hello'))
