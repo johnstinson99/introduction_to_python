@@ -1,0 +1,8 @@
+DEBUG:root:This message should go to the log file
+DEBUG:root:This message should go to the log file
+CRITICAL:root:Critical error
+DEBUG:root:This message should go to the log file
+CRITICAL:root:Critical error
+CRITICAL:root:Critical error
+CRITICAL:root:Critical error
+CRITICAL:root:Critical error

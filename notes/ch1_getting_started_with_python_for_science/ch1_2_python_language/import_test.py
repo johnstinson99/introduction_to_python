@@ -1,1 +1,1 @@
-import scipy_lecture_notes.ch1_getting_started_with_python_for_science.ch1_2_python_language.ch1_2_5_reusing_code
+import notes.ch1_getting_started_with_python_for_science.ch1_2_python_language.ch1_2_5_reusing_code
