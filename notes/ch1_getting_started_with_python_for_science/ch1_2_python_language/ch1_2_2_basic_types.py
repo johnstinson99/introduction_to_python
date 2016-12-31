@@ -1,6 +1,6 @@
 a = 1.5 + 0.5j
 b = 2 + 3j
-c = a+b
+c = a+b 
 print(c)
 print(type(c))
 

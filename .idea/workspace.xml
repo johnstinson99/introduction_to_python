@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2132f1d6-d540-41d2-be7d-9457cfd9f426" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/regression/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/regression/bluegill_fish_lengths.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/regression/linear_regression_sealevels.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/regression/quadratic_regression_bluegill_fish.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/regression/zz_linear_regression_diabetes.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/introduction_to_python.iml" afterPath="$PROJECT_DIR$/.idea/introduction_to_python.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -22,13 +27,59 @@
     <favorites_list name="stats_with_python" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ch1_2_2_basic_types.py" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ch1_2_2_basic_types.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_2_basic_types.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="26">
+              <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zz_linear_regression_diabetes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/notes/regression/zz_linear_regression_diabetes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quadratic_regression_bluegill_fish.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notes/regression/quadratic_regression_bluegill_fish.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding>
+                <element signature="e#117#127#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bluegill_fish_lengths.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notes/regression/bluegill_fish_lengths.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="linear_regression_sealevels.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notes/regression/linear_regression_sealevels.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,7 +96,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ones</find>
       <find>int</find>
       <find>diag</find>
       <find>bool</find>
@@ -75,6 +125,7 @@
       <find>orchestra</find>
       <find>itertools</find>
       <find>for</find>
+      <find>:</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -83,11 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01_getting_started/1/2_python_language/1.2.2 Basic Types.py" />
-        <option value="$PROJECT_DIR$/01_getting_started/1/2_python_language/1.2.3.py" />
-        <option value="$PROJECT_DIR$/01_getting_started/1/2_python_language/1.2.3 Control Flow.py" />
-        <option value="$PROJECT_DIR$/01_getting_started/1/2_python_language/1.2.4 - Defining functions.py" />
-        <option value="$PROJECT_DIR$/01_getting_started/1/2_python_language/1.2.5 Reusing Code - Scripts and Modules.py" />
         <option value="$PROJECT_DIR$/01_getting_started/1/2_python_language/import_test.py" />
         <option value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1/ch1_2_python_language/import_test.py" />
         <option value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/import_test.py" />
@@ -134,14 +180,19 @@
         <option value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch0_imports.py" />
         <option value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_extras_logging.py" />
         <option value="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_2_basic_types.py" />
+        <option value="$PROJECT_DIR$/notes/linear_regression/linear_regression.py" />
+        <option value="$PROJECT_DIR$/notes/regression/linear_regression.py" />
+        <option value="$PROJECT_DIR$/notes/regression/linear_regression_diabetes.py" />
+        <option value="$PROJECT_DIR$/notes/regression/linear_regression_sealevels.py" />
+        <option value="$PROJECT_DIR$/notes/regression/quadratic_regression_bluegill_fish.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="178" />
-    <option name="y" value="109" />
-    <option name="width" value="806" />
-    <option name="height" value="422" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -159,7 +210,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -215,7 +265,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ch1_getting_started_with_python_for_science" />
+              <option name="myItemId" value="regression" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -236,10 +286,6 @@
               <option name="myItemId" value="ch1_getting_started_with_python_for_science" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch1_2_python_language" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -257,22 +303,16 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Anaconda3/python.exe" />
     <property name="settings.editor.splitter.proportion" value="0.21819961" />
     <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\John\PycharmProjects\stats_with_python\FunExercises\easy\countdown_nine_letter_words_and_anagrams" />
-      <recent name="C:\Users\John\PycharmProjects\stats_with_python\FunExercises\frequency_ciphers" />
-      <recent name="C:\Users\John\PycharmProjects\stats_with_python\FunExercises" />
-      <recent name="C:\Users\John\PycharmProjects\stats_with_python\scipy_lecture_notes\ch1_getting_started_with_python_for_science\ch1_3_numpy" />
-      <recent name="C:\Users\John\PycharmProjects\stats_with_python\stats" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\John\PycharmProjects\stats_with_python\FunExercises\medium" />
       <recent name="C:\Users\John\PycharmProjects\stats_with_python\FunExercises" />
@@ -280,76 +320,15 @@
       <recent name="C:\Users\John\PycharmProjects\stats_with_python\FunExercises\easy\printing" />
       <recent name="C:\Users\John\PycharmProjects\stats_with_python\FunExercises\easy" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\John\PycharmProjects\introduction_to_python\notes\regression" />
+      <recent name="C:\Users\John\PycharmProjects\stats_with_python\FunExercises\easy\countdown_nine_letter_words_and_anagrams" />
+      <recent name="C:\Users\John\PycharmProjects\stats_with_python\FunExercises\frequency_ciphers" />
+      <recent name="C:\Users\John\PycharmProjects\stats_with_python\FunExercises" />
+      <recent name="C:\Users\John\PycharmProjects\stats_with_python\scipy_lecture_notes\ch1_getting_started_with_python_for_science\ch1_3_numpy" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.ch1_extras_logging">
-    <configuration default="false" name="armstrong" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FunExercises/easy/armstrong_numbers" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="stats_with_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FunExercises/easy/armstrong_numbers/armstrong.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="countdown" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FunExercises/easy/countdown_nine_letter_words_and_anagrams" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="stats_with_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FunExercises/easy/countdown_nine_letter_words_and_anagrams/countdown.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="elements" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FunExercises/easy/countdown_nine_letter_words_and_anagrams" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="stats_with_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FunExercises/easy/countdown_nine_letter_words_and_anagrams/elements.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ch0_imports" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_2_python_language" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="stats_with_python" />
-      <option name="SCRIPT_NAME" value="C:\Users\John\PycharmProjects\stats_with_python\scipy_lecture_notes\ch1_getting_started_with_python_for_science\ch1_2_python_language\ch1_extras_logging.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.linear_regression_sealevels">
     <configuration default="false" name="ch1_extras_logging" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -363,6 +342,74 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="stats_with_python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_extras_logging.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="linear_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notes/regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="introduction_to_python" />
+      <option name="SCRIPT_NAME" value="C:\Users\John\PycharmProjects\introduction_to_python\notes\regression\zz_linear_regression_diabetes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="linear_regression_sealevels" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notes/regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="introduction_to_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notes/regression/linear_regression_sealevels.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="linear_regression_diabetes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notes/regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="introduction_to_python" />
+      <option name="SCRIPT_NAME" value="C:\Users\John\PycharmProjects\introduction_to_python\notes\regression\zz_linear_regression_diabetes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="quadratic_regression_bluegill_fish" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notes/regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="introduction_to_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notes/regression/quadratic_regression_bluegill_fish.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -502,19 +549,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.armstrong" />
-      <item index="1" class="java.lang.String" itemvalue="Python.countdown" />
-      <item index="2" class="java.lang.String" itemvalue="Python.elements" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ch0_imports" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ch1_extras_logging" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ch1_extras_logging" />
+      <item index="1" class="java.lang.String" itemvalue="Python.linear_regression" />
+      <item index="2" class="java.lang.String" itemvalue="Python.linear_regression_sealevels" />
+      <item index="3" class="java.lang.String" itemvalue="Python.linear_regression_diabetes" />
+      <item index="4" class="java.lang.String" itemvalue="Python.quadratic_regression_bluegill_fish" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ch1_extras_logging" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ch0_imports" />
-        <item index="2" class="java.lang.String" itemvalue="Python.countdown" />
-        <item index="3" class="java.lang.String" itemvalue="Python.elements" />
-        <item index="4" class="java.lang.String" itemvalue="Python.armstrong" />
+        <item index="0" class="java.lang.String" itemvalue="Python.linear_regression_sealevels" />
+        <item index="1" class="java.lang.String" itemvalue="Python.quadratic_regression_bluegill_fish" />
+        <item index="2" class="java.lang.String" itemvalue="Python.linear_regression_diabetes" />
+        <item index="3" class="java.lang.String" itemvalue="Python.linear_regression" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ch1_extras_logging" />
       </list>
     </recent_temporary>
   </component>
@@ -529,6 +576,14 @@
       <option name="presentableId" value="Default" />
       <updated>1481651895996</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1483116146929</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1483116146929</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -541,30 +596,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="178" y="109" width="806" height="422" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3607595" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32576868" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37240356" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32047477" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37104073" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3397626" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37240356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5204678" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32047477" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37240356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -580,15 +639,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-66771623/builtins.py" />
-    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/site-packages/numpy/lib/shape_base.py" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-66771623/numpy/core/multiarray.py" />
-    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/site-packages/numpy/core/fromnumeric.py" />
-    <entry file="file://$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_3_numpy/ch1_3_1_numpy_array.py" />
-    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/site-packages/numpy/core/numeric.py" />
-    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/site-packages/numpy/lib/twodim_base.py" />
-    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/site-packages/numpy/lib/index_tricks.py" />
-    <entry file="file://$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_3_numpy/ch1_3_2_numerical_operations.py" />
     <entry file="file://$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_3_numpy/results.txt" />
     <entry file="file://$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_3_numpy/ch1_3_5_exercises_copy.py" />
     <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/unittest/main.py" />
@@ -636,11 +686,89 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_extras_logging.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/macurl2path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/urllib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-66771623/_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="99" column="4" lean-forward="false" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/site-packages/sklearn/utils/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="394" column="0" lean-forward="false" selection-start-line="394" selection-start-column="0" selection-end-line="394" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/site-packages/sklearn/linear_model/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="511" column="0" lean-forward="false" selection-start-line="511" selection-start-column="0" selection-end-line="511" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_2_basic_types.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        <state relative-caret-position="26">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/regression/linear_regression_sealevels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/regression/quadratic_regression_bluegill_fish.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="e#117#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/regression/bluegill_fish_lengths.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/regression/zz_linear_regression_diabetes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
