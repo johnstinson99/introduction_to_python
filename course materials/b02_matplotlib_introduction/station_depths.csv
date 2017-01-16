@@ -1,0 +1,31 @@
+station_name,station_depth_vs_sealevel,street_level_vs_sealevel,station_order
+Morden ,13.6,18.0,1
+South Wimbledon ,1.3,14.0,2
+Colliers Wood ,-1.1,12.0,3
+Tooting Broadway ,3.2,16.0,4
+Tooting Bec ,11.6,28.0,5
+Balham ,12.6,26.0,6
+Clapham South ,10.1,28.0,7
+Clapham North ,-1.3,13.0,8
+Clapham Common ,0.8,21.0,9
+Stockwell ,-7.8,6.0,10
+Oval ,-10.1,4.0,11
+Kennington City Branch,-12.9,3.0,12
+Elephant & Castle ,-15.4,3.0,13
+Borough ,-12.2,4.0,14
+London Bridge ,-19.6,4.0,15
+Bank ,-15.6,14.0,16
+Moorgate ,-11.3,14.0,17
+Old Street ,-8.0,17.0,18
+Angel ,-1.7,34.0,19
+King's Cross St Pancras,-11.1,17.0,20
+Camden Town City Branch,11.8,27.0,21
+Chalk Farm ,18.2,32.0,22
+Belsize Park ,32.0,68.0,23
+Hampstead ,49.1,108.0,24
+Golders Green ,73.1,70.0,25
+Brent Cross ,51.9,48.0,26
+Hendon Central ,61.5,64.0,27
+Colindale ,44.0,49.0,28
+Burnt Oak ,47.0,51.0,29
+Edgware ,54.6,59.0,30

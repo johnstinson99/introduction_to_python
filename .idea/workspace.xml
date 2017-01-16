@@ -1,16 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/course materials/b02_matplotlib_introduction/solution_2_tube_depths.py" line="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2132f1d6-d540-41d2-be7d-9457cfd9f426" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/regression/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/regression/bluegill_fish_lengths.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/regression/linear_regression_sealevels.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/regression/quadratic_regression_bluegill_fish.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/regression/zz_linear_regression_diabetes.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/introduction_to_python.iml" afterPath="$PROJECT_DIR$/.idea/introduction_to_python.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b01_type_hints_and_debugging/example_01_type_hints_ints.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b01_type_hints_and_debugging/example_02_type_hints_list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b01_type_hints_and_debugging/example_03_type_hints_list_of_ints.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b01_type_hints_and_debugging/exercise_04_debugging.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b01_type_hints_and_debugging/solution_04_debugging.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b02_matplotlib_introduction/example_1_simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b02_matplotlib_introduction/example_2_color_linestyle_marker.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b02_matplotlib_introduction/example_3_two_lines.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b02_matplotlib_introduction/example_4_axis_labels_title.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b02_matplotlib_introduction/example_5_tick_labels.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b02_matplotlib_introduction/example_6_legend.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b02_matplotlib_introduction/exercise_1_lines.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b02_matplotlib_introduction/exercise_2_tube_depths.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b02_matplotlib_introduction/solution_1_lines.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b02_matplotlib_introduction/solution_2_tube_depths.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b02_matplotlib_introduction/station_depths.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b02_matplotlib_introduction/xtra_example_7_save_to_file.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b03_matplotlib_numpy/example_1_sine_lists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b03_matplotlib_numpy/example_2_sine_lists_solution.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b03_matplotlib_numpy/example_3_sine_numpy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b03_matplotlib_numpy/example_4_simple_sine_numpy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b03_matplotlib_numpy/example_5_performance_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b04_numpy/exercises_1_numpy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b05_matplotlib/a_examples_gallery/examples.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b05_matplotlib/b_bar/bar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b05_matplotlib/b_bar/historgram.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b05_matplotlib/b_bar/horizontal_bar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b05_matplotlib/b_bar/multi_hist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b05_matplotlib/c_bubble/bubble.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b05_matplotlib/c_bubble/colour.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b05_matplotlib/d_sankey/sankey_complex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b05_matplotlib/d_sankey/sankey_diagrams.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b05_matplotlib/d_sankey/sankey_example_1_defaults.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b05_matplotlib/d_sankey/sankey_example_2_.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b05_matplotlib/d_sankey/sankey_example_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b06_automated_testing/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b06_automated_testing/example_01.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b06_automated_testing/example_01_unittest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/course materials/b06_automated_testing/test_example_01.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xx_additional_exercises/b07_regression/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xx_additional_exercises/b07_regression/bluegill_fish_lengths.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xx_additional_exercises/b07_regression/quadratic_regression_bluegill_fish.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xx_additional_exercises/easy/dice/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xx_additional_exercises/easy/guess_the_number/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xx_additional_exercises/easy/printing/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xx_additional_exercises/medium/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xx_additional_exercises/medium/cards/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xx_additional_exercises/medium/shift_ciphers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/chemical_elements/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/letter_frequency_ciphers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/word_frequency_ciphers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_old/numpy/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_old/numpy/ch1_3_numpy/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_old/other/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_old/other/cheatsheet_charts_bar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_old/other/cheatsheet_charts_bubble.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_old/other/cheatsheet_charts_sankey.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_old/other/cheatsheet_charts_straight_line.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_old/stats/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_old/z_animation/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_old/z_animation/animation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_old/zz_linear_regression_diabetes.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/course materials/example_02_debugging/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exercises/tougher/chemical_elements/test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_2_basic_types.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_3_control_flow.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_4_defining_functions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_5_reusing_code.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_6_input_output.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_7_os_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_8_exception_handling.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_extras_logging.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/example.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/filename.pickle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/import_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/regression/linear_regression_sealevels.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/EXAMPLES.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/EXAMPLES.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/__init__.py" afterPath="$PROJECT_DIR$/course materials/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/easy/__init__.py" afterPath="$PROJECT_DIR$/course materials/b01_type_hints_and_debugging/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/easy/armstrong_numbers/__init__.py" afterPath="$PROJECT_DIR$/course materials/b02_matplotlib_introduction/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/easy/armstrong_numbers/armstrong.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/easy/armstrong_numbers/armstrong.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/easy/countdown_nine_letter_words_and_anagrams/__init__.py" afterPath="$PROJECT_DIR$/course materials/b03_matplotlib_numpy/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/easy/countdown_nine_letter_words_and_anagrams/countdown.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/easy/countdown_nine_letter_words_and_anagrams/countdown.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/easy/countdown_nine_letter_words_and_anagrams/words_alpha.txt" afterPath="$PROJECT_DIR$/xx_additional_exercises/easy/countdown_nine_letter_words_and_anagrams/words_alpha.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/easy/dice/__init__.py" afterPath="$PROJECT_DIR$/course materials/b04_numpy/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/easy/dice/dice.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/easy/dice/dice.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/easy/guess_the_number/__init__.py" afterPath="$PROJECT_DIR$/course materials/b04_numpy/examples_and_exercises_are_in_jupyter_notebook.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/easy/guess_the_number/guess_it.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/easy/guess_the_number/guess_it.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/easy/printing/__init__.py" afterPath="$PROJECT_DIR$/course materials/b05_matplotlib/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/easy/printing/printing.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/easy/printing/printing.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/medium/__init__.py" afterPath="$PROJECT_DIR$/course materials/b05_matplotlib/a_examples_gallery/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/medium/cards/__init__.py" afterPath="$PROJECT_DIR$/course materials/b05_matplotlib/b_bar/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/medium/cards/cards.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/medium/cards/cards.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/medium/shift_ciphers/__init__.py" afterPath="$PROJECT_DIR$/course materials/b05_matplotlib/c_bubble/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/medium/shift_ciphers/code_break.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/medium/shift_ciphers/code_break.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/__init__.py" afterPath="$PROJECT_DIR$/course materials/b05_matplotlib/d_sankey/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/chemical_elements/__init__.py" afterPath="$PROJECT_DIR$/course materials/b06_automated_testing/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/chemical_elements/elements.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/chemical_elements/elements.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/chemical_elements/elements.txt" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/chemical_elements/elements.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/chemical_elements/results.txt" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/chemical_elements/results.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/chemical_elements/results_all_words.txt" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/chemical_elements/results_all_words.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/chemical_elements/words_alpha.txt" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/chemical_elements/words_alpha.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/chemical_elements/words_clean.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/chemical_elements/words_clean.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/chemical_elements/words_first_names.txt" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/chemical_elements/words_first_names.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/chemical_elements/words_with_punctuation.txt" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/chemical_elements/words_with_punctuation.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/letter_frequency_ciphers/__init__.py" afterPath="$PROJECT_DIR$/course materials/b07_regression/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/letter_frequency_ciphers/create_frequency_tuples.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/letter_frequency_ciphers/create_frequency_tuples.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/letter_frequency_ciphers/decode_using_letter_frequency.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/letter_frequency_ciphers/decode_using_letter_frequency.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/letter_frequency_ciphers/frequency_tuples.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/letter_frequency_ciphers/frequency_tuples.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/letter_frequency_ciphers/words_alpha.txt" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/letter_frequency_ciphers/words_alpha.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/word_frequency_ciphers/__init__.py" afterPath="$PROJECT_DIR$/course materials/b07_regression/go to sea level example in jupyter notebook.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/word_frequency_ciphers/decode_from_four_digit_strings.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/word_frequency_ciphers/decode_from_four_digit_strings.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/word_frequency_ciphers/encode_to_four_digit_strings.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/word_frequency_ciphers/encode_to_four_digit_strings.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/exercises/tougher/word_frequency_ciphers/most_common_words" afterPath="$PROJECT_DIR$/xx_additional_exercises/tougher/word_frequency_ciphers/most_common_words" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/notes/__init__.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/__init__.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_3_numpy/__init__.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/easy/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_3_numpy/ch1_3_1_numpy_array.py" afterPath="$PROJECT_DIR$/zz_old/numpy/ch1_3_numpy/ch1_3_1_numpy_array.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_3_numpy/ch1_3_2_numerical_operations.py" afterPath="$PROJECT_DIR$/zz_old/numpy/ch1_3_numpy/ch1_3_2_numerical_operations.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_3_numpy/ch1_3_5_exercises.py" afterPath="$PROJECT_DIR$/zz_old/numpy/ch1_3_numpy/ch1_3_5_exercises.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_3_numpy/results.txt" afterPath="$PROJECT_DIR$/zz_old/numpy/ch1_3_numpy/results.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_3_numpy/results.xlsx" afterPath="$PROJECT_DIR$/zz_old/numpy/ch1_3_numpy/results.xlsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_3_numpy/results_with_print.xlsx" afterPath="$PROJECT_DIR$/zz_old/numpy/ch1_3_numpy/results_with_print.xlsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/notes/regression/__init__.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/easy/armstrong_numbers/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/notes/regression/bluegill_fish_lengths.txt" afterPath="$PROJECT_DIR$/xx_additional_exercises/b07_regression/bluegill_fish_lengths.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/notes/regression/quadratic_regression_bluegill_fish.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/b07_regression/quadratic_regression_bluegill_fish.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/notes/regression/zz_linear_regression_diabetes.py" afterPath="$PROJECT_DIR$/zz_old/zz_linear_regression_diabetes.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/stats/__init__.py" afterPath="$PROJECT_DIR$/xx_additional_exercises/easy/countdown_nine_letter_words_and_anagrams/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/stats/brain_size.csv" afterPath="$PROJECT_DIR$/zz_old/stats/brain_size.csv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/stats/numpy_files.py" afterPath="$PROJECT_DIR$/zz_old/stats/numpy_files.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/stats/pandas_brain.py" afterPath="$PROJECT_DIR$/zz_old/stats/pandas_brain.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/stats/test_jupyter.ipynb" afterPath="$PROJECT_DIR$/zz_old/stats/test_jupyter.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_2_basic_types.py" afterPath="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_2_basic_types.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,79 +155,19 @@
     <favorites_list name="stats_with_python" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ch1_2_2_basic_types.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_2_basic_types.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zz_linear_regression_diabetes.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/notes/regression/zz_linear_regression_diabetes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="quadratic_regression_bluegill_fish.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes/regression/quadratic_regression_bluegill_fish.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-              <folding>
-                <element signature="e#117#127#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bluegill_fish_lengths.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes/regression/bluegill_fish_lengths.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="linear_regression_sealevels.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes/regression/linear_regression_sealevels.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>int</find>
-      <find>diag</find>
-      <find>bool</find>
-      <find>bol</find>
       <find>time</find>
       <find>sul</find>
       <find>lower_</find>
@@ -126,7 +194,14 @@
       <find>itertools</find>
       <find>for</find>
       <find>:</find>
+      <find>Thomas</find>
+      <find>I don't like Thomas</find>
+      <find>I like Thomas</find>
+      <find>I don't</find>
     </findStrings>
+    <dirStrings>
+      <dir>C:\Users\John\PycharmProjects\introduction_to_python</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -134,65 +209,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01_getting_started/1/2_python_language/import_test.py" />
-        <option value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1/ch1_2_python_language/import_test.py" />
-        <option value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/import_test.py" />
-        <option value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_5_reusing_code.py" />
-        <option value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_6_input_output.py" />
-        <option value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_7_os_module.py" />
-        <option value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_8_exception_handling.py" />
-        <option value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_3_numpy/ch1_3_1_numpy_array.py" />
-        <option value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_3_numpy/ch1_3_2_numerical_operations.py" />
-        <option value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_3_numpy/ch1_3_5_exercises.py" />
-        <option value="$PROJECT_DIR$/FunExercises/test.py" />
-        <option value="$PROJECT_DIR$/FunExercises/read_words.py" />
-        <option value="$PROJECT_DIR$/FunExercises/words_clean.py" />
-        <option value="$PROJECT_DIR$/FunExercises/elements.txt" />
-        <option value="$PROJECT_DIR$/FunExercises/words_first_names.txt" />
-        <option value="$PROJECT_DIR$/FunExercises/elements.py" />
-        <option value="$PROJECT_DIR$/FunExercises/code_breaking/code_break.py" />
-        <option value="$PROJECT_DIR$/FunExercises/shift_ciphers/code_break.py" />
-        <option value="$PROJECT_DIR$/FunExercises/frequency_codes.py" />
-        <option value="$PROJECT_DIR$/FunExercises/chemical_elements/words_clean.py" />
-        <option value="$PROJECT_DIR$/FunExercises/frequency_ciphers/frequency_codes.py" />
-        <option value="$PROJECT_DIR$/FunExercises/frequency_ciphers/create_frequency_tuples.py" />
-        <option value="$PROJECT_DIR$/FunExercises/frequency_ciphers/frequency_tuples.py" />
-        <option value="$PROJECT_DIR$/FunExercises/frequency_ciphers/decode_using_frequency.py" />
-        <option value="$PROJECT_DIR$/FunExercises/frequency_ciphers/most_common_words" />
-        <option value="$PROJECT_DIR$/FunExercises/frequency_ciphers/decode_using_letter_frequency.py" />
-        <option value="$PROJECT_DIR$/FunExercises/frequency_ciphers/decode_using_word_frequency.py" />
-        <option value="$PROJECT_DIR$/FunExercises/word_frequency_ciphers/encode_to_four_digit_strings.py" />
-        <option value="$PROJECT_DIR$/FunExercises/word_frequency_ciphers/decode_from_four_digit_strings.py" />
-        <option value="$PROJECT_DIR$/FunExercises/dice.py" />
-        <option value="$PROJECT_DIR$/FunExercises/dice/dice.py" />
-        <option value="$PROJECT_DIR$/FunExercises/letter_frequency_ciphers/decode_using_letter_frequency.py" />
-        <option value="$PROJECT_DIR$/FunExercises/easy.py" />
-        <option value="$PROJECT_DIR$/FunExercises/easy/printing.py" />
-        <option value="$PROJECT_DIR$/FunExercises/easy/printing/printing.py" />
-        <option value="$PROJECT_DIR$/FunExercises/easy/guess_the_number/guess_it.py" />
-        <option value="$PROJECT_DIR$/FunExercises/easy/EXAMPLES.py" />
-        <option value="$PROJECT_DIR$/FunExercises/medium/cards/cards.py" />
-        <option value="$PROJECT_DIR$/FunExercises/hard/word_frequency_ciphers/decode_from_four_digit_strings.py" />
-        <option value="$PROJECT_DIR$/FunExercises/easy/dice/dice.py" />
-        <option value="$PROJECT_DIR$/FunExercises/easy/armstrong_numbers/armstrong.py" />
-        <option value="$PROJECT_DIR$/FunExercises/easy/countdown_nine_letter_words_and_anagrams/elements.py" />
-        <option value="$PROJECT_DIR$/FunExercises/easy/countdown_nine_letter_words_and_anagrams/countdown.py" />
-        <option value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch0_imports.py" />
-        <option value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_extras_logging.py" />
-        <option value="$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_2_basic_types.py" />
-        <option value="$PROJECT_DIR$/notes/linear_regression/linear_regression.py" />
-        <option value="$PROJECT_DIR$/notes/regression/linear_regression.py" />
-        <option value="$PROJECT_DIR$/notes/regression/linear_regression_diabetes.py" />
-        <option value="$PROJECT_DIR$/notes/regression/linear_regression_sealevels.py" />
-        <option value="$PROJECT_DIR$/notes/regression/quadratic_regression_bluegill_fish.py" />
+        <option value="$PROJECT_DIR$/course materials/example_02_debugging/debugging.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a_line/simple_sine_numpy.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a_line/simple_sine_with_axis_labels.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a_line/simple_sine_save_to_file.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a_line/simple_sine_numpy_axis_labels_tick_labels.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/c_bubble/bubble.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a_line/cheatsheet_charts.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/b_bar/cheatsheet_charts.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/d_sankey/sankey_example_1_defaults.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/d_sankey/cheatsheet_charts.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/c_bubble/colour.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/other/cheatsheet_charts_bar.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/other/cheatsheet_charts_straight_line.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a_line/simple.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a_line/line_1.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a_line/line_1a.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a_line/line_2.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/b_bar/bar.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a_line/simple_x_ticks.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a1_line/line_2.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a1_line/example_4_chart_and_axis_labels.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a1_line/example_1_simple.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a1_line/example_6_legend.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a1_line/solution_2_tube_depths.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a1_line/exercise_1_lines.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a1_line/solution_1_lines.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a1_line/exercise_2_tube_depths.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a2_line_numpy/example_1_sine_lists.py" />
+        <option value="$PROJECT_DIR$/course materials/matplotlib/a2_line_numpy/example_3_simple_sine_numpy.py" />
+        <option value="$PROJECT_DIR$/course materials/b01_intellij_idea_introduction/exercise_04_debugging.py" />
+        <option value="$PROJECT_DIR$/course materials/b03_matplotlib_numpy/ch1_3_numpy/ch1_3_1_numpy_array.py" />
+        <option value="$PROJECT_DIR$/course materials/b03_matplotlib_numpy/example_3_simple_sine_numpy.py" />
+        <option value="$PROJECT_DIR$/course materials/b03_matplotlib_numpy/example_4_simple_sine_numpy.py" />
+        <option value="$PROJECT_DIR$/course materials/b03_matplotlib_numpy/example_3_sine_numpy.py" />
+        <option value="$PROJECT_DIR$/course materials/b02_matplotlib_introduction/x_example_7_save_to_file.py" />
+        <option value="$PROJECT_DIR$/course materials/b02_matplotlib_introduction/xtra_example_7_save_to_file.py" />
+        <option value="$PROJECT_DIR$/course materials/b03_matplotlib_numpy/x_performance_test.py" />
+        <option value="$PROJECT_DIR$/course materials/b04_numpy.py" />
+        <option value="$PROJECT_DIR$/course materials/b04_numpy/examples_1_numpy.py" />
+        <option value="$PROJECT_DIR$/course materials/b04_numpy/examples_1_creating_arrays.py" />
+        <option value="$PROJECT_DIR$/course materials/b04_numpy/examples_and_exercises_are_in_jupyter_notebook.py" />
+        <option value="$PROJECT_DIR$/course materials/b05_matplotlib/a_examples.py" />
+        <option value="$PROJECT_DIR$/course materials/b05_matplotlib/a_examples/examples.py" />
+        <option value="$PROJECT_DIR$/course materials/b05_matplotlib/a_exercises_gallery/examples.py" />
+        <option value="$PROJECT_DIR$/course materials/b07_automated_testing/example_01_unittest.py" />
+        <option value="$PROJECT_DIR$/course materials/b07_automated_testing/example_01_testcase.py" />
+        <option value="$PROJECT_DIR$/course materials/b07_automated_testing/test_example_01.py" />
+        <option value="$PROJECT_DIR$/course materials/b07_automated_testing/example_01.py" />
+        <option value="$PROJECT_DIR$/course materials/b06_regression/quadratic_regression_bluegill_fish.py" />
+        <option value="$PROJECT_DIR$/course materials/b06_regression/linear_regression_sealevels.py" />
+        <option value="$PROJECT_DIR$/course materials/b07_regression/go to sea level example in jupyter notebook.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="90" />
+    <option name="y" value="9" />
+    <option name="width" value="1157" />
+    <option name="height" value="704" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -210,6 +285,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -233,77 +309,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="stats" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="introduction_to_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="introduction_to_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="introduction_to_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="introduction_to_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="regression" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="introduction_to_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="introduction_to_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch1_getting_started_with_python_for_science" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="introduction_to_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="introduction_to_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exercises" />
+              <option name="myItemId" value="course materials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -314,104 +325,129 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\John\PycharmProjects\stats_with_python\FunExercises\medium" />
-      <recent name="C:\Users\John\PycharmProjects\stats_with_python\FunExercises" />
-      <recent name="C:\Users\John\PycharmProjects\stats_with_python\FunExercises\hard" />
-      <recent name="C:\Users\John\PycharmProjects\stats_with_python\FunExercises\easy\printing" />
-      <recent name="C:\Users\John\PycharmProjects\stats_with_python\FunExercises\easy" />
+      <recent name="C:\Users\John\PycharmProjects\introduction_to_python\zz_old" />
+      <recent name="C:\Users\John\PycharmProjects\introduction_to_python\course materials\numpy" />
+      <recent name="C:\Users\John\PycharmProjects\introduction_to_python\course materials\b01_intellij_idea_introduction" />
+      <recent name="C:\Users\John\PycharmProjects\introduction_to_python\course materials\b02_matplotlib_numpy" />
+      <recent name="C:\Users\John\PycharmProjects\introduction_to_python\course materials" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\John\PycharmProjects\introduction_to_python\notes\regression" />
-      <recent name="C:\Users\John\PycharmProjects\stats_with_python\FunExercises\easy\countdown_nine_letter_words_and_anagrams" />
-      <recent name="C:\Users\John\PycharmProjects\stats_with_python\FunExercises\frequency_ciphers" />
-      <recent name="C:\Users\John\PycharmProjects\stats_with_python\FunExercises" />
-      <recent name="C:\Users\John\PycharmProjects\stats_with_python\scipy_lecture_notes\ch1_getting_started_with_python_for_science\ch1_3_numpy" />
+      <recent name="C:\Users\John\PycharmProjects\introduction_to_python\xx_additional_exercises" />
+      <recent name="C:\Users\John\PycharmProjects\introduction_to_python\zz_old" />
+      <recent name="C:\Users\John\PycharmProjects\introduction_to_python\course materials\b03_matplotlib_numpy" />
+      <recent name="C:\Users\John\PycharmProjects\introduction_to_python\course materials\b01_intellij_idea_introduction" />
+      <recent name="C:\Users\John\PycharmProjects\introduction_to_python\course materials\matplotlib\a1_line" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.linear_regression_sealevels">
-    <configuration default="false" name="ch1_extras_logging" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests in b06_automated_testing">
+    <configuration default="false" name="Unittests in b06_automated_testing" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_2_python_language" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="stats_with_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_extras_logging.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="linear_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notes/regression" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\John\PycharmProjects\introduction_to_python\course materials\b06_automated_testing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="introduction_to_python" />
-      <option name="SCRIPT_NAME" value="C:\Users\John\PycharmProjects\introduction_to_python\notes\regression\zz_linear_regression_diabetes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="C:\Users\John\PycharmProjects\introduction_to_python\course materials\b06_automated_testing" />
+      <option name="TEST_TYPE" value="TEST_FOLDER" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="linear_regression_sealevels" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Unittest MyTestCase.test_something" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notes/regression" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\John\PycharmProjects\introduction_to_python\course materials\b06_automated_testing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="introduction_to_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notes/regression/linear_regression_sealevels.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course materials/b07_automated_testing/test_example_01.py" />
+      <option name="CLASS_NAME" value="MyTestCase" />
+      <option name="METHOD_NAME" value="test_something" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="linear_regression_diabetes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Unittests in b06_automated_testing" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notes/regression" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\John\PycharmProjects\introduction_to_python\course materials\b06_automated_testing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="introduction_to_python" />
-      <option name="SCRIPT_NAME" value="C:\Users\John\PycharmProjects\introduction_to_python\notes\regression\zz_linear_regression_diabetes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="C:\Users\John\PycharmProjects\introduction_to_python\course materials\b06_automated_testing" />
+      <option name="TEST_TYPE" value="TEST_FOLDER" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="quadratic_regression_bluegill_fish" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Unittests in introduction_to_python" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notes/regression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="introduction_to_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notes/regression/quadratic_regression_bluegill_fish.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="$PROJECT_DIR$" />
+      <option name="TEST_TYPE" value="TEST_FOLDER" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in b06_automated_testing" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\John\PycharmProjects\introduction_to_python\course materials\b06_automated_testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="introduction_to_python" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="C:\Users\John\PycharmProjects\introduction_to_python\course materials\b06_automated_testing" />
+      <option name="TEST_TYPE" value="TEST_FOLDER" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -548,20 +584,43 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ch1_extras_logging" />
-      <item index="1" class="java.lang.String" itemvalue="Python.linear_regression" />
-      <item index="2" class="java.lang.String" itemvalue="Python.linear_regression_sealevels" />
-      <item index="3" class="java.lang.String" itemvalue="Python.linear_regression_diabetes" />
-      <item index="4" class="java.lang.String" itemvalue="Python.quadratic_regression_bluegill_fish" />
+    <configuration default="false" name="Unittests in b06_automated_testing" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\John\PycharmProjects\introduction_to_python\course materials\b06_automated_testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="introduction_to_python" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="C:\Users\John\PycharmProjects\introduction_to_python\course materials\b06_automated_testing" />
+      <option name="TEST_TYPE" value="TEST_FOLDER" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in b06_automated_testing" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in b06_automated_testing" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest MyTestCase.test_something" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in b06_automated_testing" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in introduction_to_python" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests in b06_automated_testing" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.linear_regression_sealevels" />
-        <item index="1" class="java.lang.String" itemvalue="Python.quadratic_regression_bluegill_fish" />
-        <item index="2" class="java.lang.String" itemvalue="Python.linear_regression_diabetes" />
-        <item index="3" class="java.lang.String" itemvalue="Python.linear_regression" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ch1_extras_logging" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in b06_automated_testing" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in introduction_to_python" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in b06_automated_testing" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest MyTestCase.test_something" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in b06_automated_testing" />
       </list>
     </recent_temporary>
   </component>
@@ -583,8 +642,47 @@
       <option name="project" value="LOCAL" />
       <updated>1483116146929</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="small update">
+      <created>1483222337948</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1483222337948</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittest_MyTestCase_test_something - 2017.01.15 at 22h 07m 47s.xml">
+      <configuration name="Unittest MyTestCase.test_something" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestStringMethods_test_upper - 2017.01.15 at 22h 04m 11s.xml">
+      <configuration name="Unittest TestStringMethods.test_upper" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_b07_automated_testing - 2017.01.15 at 22h 03m 11s.xml">
+      <configuration name="Unittests in b07_automated_testing" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_b07_automated_testing - 2017.01.15 at 22h 07m 51s.xml">
+      <configuration name="Unittests in b07_automated_testing" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_b07_automated_testing_(2) - 2017.01.15 at 22h 04m 44s.xml">
+      <configuration name="Unittests in b07_automated_testing (2)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_b07_automated_testing_(2) - 2017.01.15 at 22h 11m 53s.xml">
+      <configuration name="Unittests in b07_automated_testing (2)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_b07_automated_testing_(3) - 2017.01.15 at 22h 06m 28s.xml">
+      <configuration name="Unittests in b07_automated_testing (3)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_b07_automated_testing_(4) - 2017.01.15 at 22h 07m 09s.xml">
+      <configuration name="Unittests in b07_automated_testing (4)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_introduction_to_python - 2017.01.15 at 22h 07m 58s.xml">
+      <configuration name="Unittests in introduction_to_python" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_introduction_to_python_(2) - 2017.01.15 at 22h 01m 42s.xml">
+      <configuration name="Unittests in introduction_to_python (2)" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -596,25 +694,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <frame x="90" y="9" width="1157" height="704" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32576868" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4241893" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37104073" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.318797" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3397626" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2857143" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37240356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3721973" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32047477" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -623,7 +721,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="small update" />
+    <option name="LAST_COMMIT_MESSAGE" value="small update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -633,141 +732,403 @@
           <line>104</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/course materials/b01_type_hints_and_debugging/example_03_type_hints_list_of_ints.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/course materials/b01_type_hints_and_debugging/solution_04_debugging.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="15" />
+      <option name="time" value="23" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_3_numpy/results.txt" />
-    <entry file="file://$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_3_numpy/ch1_3_5_exercises_copy.py" />
-    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/unittest/main.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/hard/chemical_elements/test.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/hard/chemical_elements/words_alpha.txt" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/hard/chemical_elements/words_with_punctuation.txt" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/hard/chemical_elements/words_first_names.txt" />
-    <entry file="file://$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_3_numpy/ch1_3_5_exercises.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/hard/chemical_elements/elements.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/hard/chemical_elements/results.txt" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/hard/chemical_elements/elements.txt" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/hard/chemical_elements/results_all_words.txt" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/hard/chemical_elements/words_clean.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/frequency_ciphers/words_clean.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/hard/letter_frequency_ciphers/frequency_tuples.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/hard/letter_frequency_ciphers/create_frequency_tuples.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/hard/word_frequency_ciphers/encode_to_four_digit_strings.py" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-66771623/numpy/random/mtrand.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/hard/letter_frequency_ciphers/decode_using_letter_frequency.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/easy.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/easy/guess_the_number/guess_it.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/medium/cards/cards.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/easy/printing/printing.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/medium/shift_ciphers/code_break.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/hard/word_frequency_ciphers/decode_from_four_digit_strings.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/EXAMPLES.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/easy/dice/dice.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/easy/armstrong_numbers/armstrong.py" />
-    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/collections/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/easy/countdown_nine_letter_words_and_anagrams/elements.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/easy/countdown_nine_letter_words_and_anagrams/countdown.py" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-66771623/itertools.py" />
-    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/csv.py" />
-    <entry file="file://$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/filename.pickle" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/hard/letter_frequency_ciphers/words_alpha.txt" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/hard/word_frequency_ciphers/most_common_words" />
-    <entry file="file://$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/example.log" />
-    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/random.py" />
-    <entry file="file://$PROJECT_DIR$/FunExercises/easy/countdown_nine_letter_words_and_anagrams/words_alpha.txt" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+    <entry file="file://$PROJECT_DIR$/zz_old/other/cheatsheet_charts_straight_line.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scipy_lecture_notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_extras_logging.py" />
-    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/macurl2path.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/urllib/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-66771623/_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="99" column="4" lean-forward="false" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/site-packages/sklearn/utils/validation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="394" column="0" lean-forward="false" selection-start-line="394" selection-start-column="0" selection-end-line="394" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/site-packages/sklearn/linear_model/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="511" column="0" lean-forward="false" selection-start-line="511" selection-start-column="0" selection-end-line="511" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/ch1_getting_started_with_python_for_science/ch1_2_python_language/ch1_2_2_basic_types.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/regression/linear_regression_sealevels.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="370">
+          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/regression/quadratic_regression_bluegill_fish.py">
+    <entry file="file://$PROJECT_DIR$/course materials/b05_matplotlib/b_bar/bar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding>
-            <element signature="e#117#127#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="63">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/regression/bluegill_fish_lengths.txt">
+    <entry file="file://$PROJECT_DIR$/course materials/b02_matplotlib_introduction/example_2_color_linestyle_marker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="189">
+          <caret line="9" column="54" lean-forward="false" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b02_matplotlib_introduction/example_4_axis_labels_title.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b02_matplotlib_introduction/example_1_simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="725" column="0" lean-forward="false" selection-start-line="725" selection-start-column="0" selection-end-line="725" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b02_matplotlib_introduction/station_depths.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b02_matplotlib_introduction/example_3_two_lines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="52" lean-forward="false" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b02_matplotlib_introduction/example_5_tick_labels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/regression/zz_linear_regression_diabetes.py">
+    <entry file="file://$PROJECT_DIR$/course materials/b02_matplotlib_introduction/solution_2_tube_depths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="44" column="10" lean-forward="true" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b02_matplotlib_introduction/exercise_1_lines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b02_matplotlib_introduction/solution_1_lines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="46" column="10" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b02_matplotlib_introduction/exercise_2_tube_depths.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#561#571#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b01_type_hints_and_debugging/example_01_type_hints_ints.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b01_type_hints_and_debugging/example_02_type_hints_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b01_type_hints_and_debugging/exercise_04_debugging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b01_type_hints_and_debugging/solution_04_debugging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/site-packages/numpy/core/function_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/site-packages/numpy/lib/twodim_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="191" column="4" lean-forward="false" selection-start-line="191" selection-start-column="4" selection-end-line="191" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zz_old/numpy/ch1_3_numpy/ch1_3_1_numpy_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b03_matplotlib_numpy/example_1_sine_lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b03_matplotlib_numpy/example_2_sine_lists_solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b03_matplotlib_numpy/example_4_simple_sine_numpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b03_matplotlib_numpy/example_3_sine_numpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b03_matplotlib_numpy/simple_sine_numpy_axis_labels.py" />
+    <entry file="file://$PROJECT_DIR$/course materials/b03_matplotlib_numpy/simple_sine_numpy_axis_labels_tick_labels.py" />
+    <entry file="file://$PROJECT_DIR$/course materials/b03_matplotlib_numpy/simple_sine_save_to_file.py" />
+    <entry file="file://$PROJECT_DIR$/course materials/b02_matplotlib_introduction/xtra_example_7_save_to_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b02_matplotlib_introduction/example_6_legend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="63" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b04_numpy.py" />
+    <entry file="file://$PROJECT_DIR$/course materials/b04_numpy/exercises_1_numpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b04_numpy/examples_and_exercises_are_in_jupyter_notebook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b05_matplotlib/b_bar/multi_hist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="73" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="21" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b05_matplotlib/b_bar/historgram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="54" column="35" lean-forward="false" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="35" />
+          <folding>
+            <element signature="e#423#441#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b03_matplotlib_numpy/example_5_performance_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zz_old/z_animation/animation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-320">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b05_matplotlib/a_examples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xx_additional_exercises/tougher/chemical_elements/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b06_automated_testing/example_01_unittest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b06_automated_testing/test_example_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b06_automated_testing/example_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/headless/Lib/site-packages/numpy/lib/polynomial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-262">
+          <caret line="401" column="4" lean-forward="false" selection-start-line="401" selection-start-column="4" selection-end-line="401" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b06_regression/quadratic_regression_bluegill_fish.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-409">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b06_regression/linear_regression_sealevels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="74" column="10" lean-forward="true" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b07_regression/go to sea level example in jupyter notebook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xx_additional_exercises/EXAMPLES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xx_additional_exercises/b07_regression/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zz_old/b06_regression/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course materials/b05_matplotlib/a_examples_gallery/examples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zz_old/z_ch1_getting_started_with_python_for_science/ch1_2_python_language/import_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zz_old/numpy/ch1_3_numpy/ch1_3_5_exercises.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
           </folding>
         </state>
       </provider>
